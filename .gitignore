@@ -1,2 +1,3 @@
 *.pdf
 node_modules
+!dd2875.pdf
