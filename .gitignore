@@ -1,3 +1,8 @@
 *.pdf
 node_modules
-!dd2875.pdf
+!DD2875.pdf
+!DD2875_unlocked.pdf
+!democert.pem
+!demokey.pem
+!keyStore.p12
+!./output
